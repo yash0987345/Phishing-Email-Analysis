@@ -1,4 +1,4 @@
-Phishing-Email-Analysis
+Phishing-Email-Analysis - 1
 
 Objective:
       - To analyze a suspicious email pretending to be from Microsoft and identify phishing characteristics to raise cybersecurity awareness.
